@@ -1,0 +1,12 @@
+init 1024
+set best
+malloc 300
+malloc 100
+free 1
+stats
+cache init 8 16 8
+access 0x2000
+access 0x2008
+access 0x2000
+cache_stats
+exit

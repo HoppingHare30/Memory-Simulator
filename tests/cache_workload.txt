@@ -1,0 +1,7 @@
+init 1024
+cache init 4 8 8
+access 0x1000
+access 0x1008
+access 0x1000
+cache_stats
+exit

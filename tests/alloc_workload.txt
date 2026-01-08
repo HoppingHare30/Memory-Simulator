@@ -1,0 +1,9 @@
+init 1024
+set first
+malloc 100
+malloc 200
+malloc 300
+free 1
+stats
+dump
+exit
