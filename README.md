@@ -3,6 +3,8 @@
 ## Overview
 A simplified OS memory and cache simulator implemented in C++. It models allocation strategies, fragmentation behavior, free/coalescing, and a two-level cache hierarchy with FIFO replacement and hit/miss statistics. The goal is to demonstrate core OS concepts in a clean, testable environment.
 
+## Demo Video Link: https://drive.google.com/file/d/17p1ryybO_k7kHhGOaLALfVS0RQ-6qf_C/view?usp=share_link
+
 ## Features
 - First Fit, Best Fit, Worst Fit allocation
 - Free + coalescing of adjacent blocks
